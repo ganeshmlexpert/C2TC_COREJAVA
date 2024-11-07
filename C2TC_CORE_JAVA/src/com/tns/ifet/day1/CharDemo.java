@@ -1,16 +1,24 @@
-package com.tns.ifet.day1;
+package com.tns.ifet.dayone;
 
 public class CharDemo {
+
 	public static void main(String[] args) {
-		char c1='a';
-		System.out.println(c1);
-		char c2=65;
-		System.out.println(c2);
-		char var1='\u00A7';
+		// TODO Auto-generated method stub
+		char ch = 'a';
+		System.out.println(ch);
+		// assigning number to char
+		char ch1 = 65;
+		System.out.println(ch1);
+		// assigning unicode to char
+		char var1 = '\u00A4';
 		System.out.println(var1);
-		char var2='\u20AC';
+		// Unicode representation
+		char var2 = '\u20AC';
 		System.out.println(var2);
-		int a='A';
+		// ASCI code representation
+		int a = 'A';
 		System.out.println(a);
+
 	}
+
 }

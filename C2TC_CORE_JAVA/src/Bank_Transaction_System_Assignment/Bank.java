@@ -1,4 +1,4 @@
-package Bank_Transaction_System;
+package Bank_Transaction_System_Assignment;
 
 public class Bank {
 	public static int totalAccounts=0;

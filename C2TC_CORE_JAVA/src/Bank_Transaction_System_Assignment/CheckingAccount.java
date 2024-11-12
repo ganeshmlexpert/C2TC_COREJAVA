@@ -1,4 +1,4 @@
-package Bank_Transaction_System;
+package Bank_Transaction_System_Assignment;
 
 public class CheckingAccount extends Account {
 

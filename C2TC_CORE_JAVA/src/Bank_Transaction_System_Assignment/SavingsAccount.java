@@ -1,4 +1,4 @@
-package Bank_Transaction_System;
+package Bank_Transaction_System_Assignment;
 
 public class SavingsAccount extends Account{
 	private static final double MINIMUM_BALANCE = 500.0;

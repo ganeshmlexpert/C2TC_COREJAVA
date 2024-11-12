@@ -1,4 +1,4 @@
-package Bank_Transaction_System;
+package Bank_Transaction_System_Assignment;
 
 public class Transaction {
 	private final double tran_fee = 2/100;

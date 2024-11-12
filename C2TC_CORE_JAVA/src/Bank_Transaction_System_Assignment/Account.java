@@ -1,4 +1,4 @@
-package Bank_Transaction_System;
+package Bank_Transaction_System_Assignment;
 
 public abstract class Account {
 	protected double balance;

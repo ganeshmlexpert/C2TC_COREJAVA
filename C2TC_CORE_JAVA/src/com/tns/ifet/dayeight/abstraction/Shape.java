@@ -1,5 +1,5 @@
 //Program to define abstract class
-package com.tns.ifet.dayeight.abstractio;
+package com.tns.ifet.dayeight.abstraction;
 
 //abstract class
 public abstract class Shape {

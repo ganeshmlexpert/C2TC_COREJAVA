@@ -1,5 +1,5 @@
 //Program to demonstrate abstraction
-package com.tns.ifet.dayeight.abstractio;
+package com.tns.ifet.dayeight.abstraction;
 
 
 public class AbstractDemo {
